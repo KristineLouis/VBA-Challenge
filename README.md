@@ -1,5 +1,4 @@
 # VBA-Challenge
-# VBA-Stocks
 
 # VBA Homework: The VBA of Wall Street
 
